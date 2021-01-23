@@ -20,3 +20,4 @@ Please feel free to reuse and build new stuff with these lists.
 If you have items to add, or lists to contribute, please submit a pull request! 
 
 
+# - Partially sourced from [https://github.com/juliandefreitas/entity_lists](https://github.com/juliandefreitas/entity_lists)
