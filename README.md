@@ -1,2 +1,14 @@
 # std_lists
-a collection of lists of common things in CSV format
+A collection of lists of common things in CSV format. 
+
+I often write small scripts, such as Twitter Bots which select random items from lists. I've started to gather these together here. Each is a CSV file, with no header row. The filename denotes what it contains.
+
+Where I didn't compile the list myself, I've given the source after the file name / link:
+
+* [Occupations](occupations.csv) - Source: https://github.com/johnlsheridan/occupations
+
+Please feel free to reuse and build new stuff with these lists. 
+
+If you have items to add, or lists to contribute, please submit a pull request! 
+
+
