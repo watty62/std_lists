@@ -10,6 +10,7 @@ Where I didn't compile the list myself, I've given the source after the file nam
 * [Aberdeenshire Places](aberdeenshire_places.tsv) - needs fixing
 * [Animals](animals.csv) # ]
 * [Body Parts](body_parts.csv) #
+* [Countries](countries.csv) 
 * [Demonyms](demonyms.csv)
 * [Feminine Names](feminine_names.csv) #
 * [Fruits](fruits.csv)
