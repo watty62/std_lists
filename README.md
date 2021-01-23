@@ -6,13 +6,18 @@ I often write small scripts, such as Twitter Bots which select random items from
 Where I didn't compile the list myself, I've given the source after the file name / link. 
 
 ##  The Lists
+* [Aberdeen Areas](aberdeen_areas.csv)
+* [Aberdeenshire Places](aberdeenshire_places.tsv) - needs fixing
 * [Animals](animals.csv) # ]
 * [Body Parts](body_parts.csv) #
+* [Demonyms](demonyms.csv)
 * [Feminine Names](feminine_names.csv) #
+* [Fruits](fruits.csv)
 * [Masculine Names](masculine_names.csv) #
 * [Occupations](occupations.csv) - Source: https://github.com/johnlsheridan/occupations
 * [Persons](persons.csv) - note overlap with Occupations # 
 * [Surnames](surnames.csv) # 
+* [Vegetables](vegetables.csv)
 * [Vehicles](vehicles.csv) #
 
 Please feel free to reuse and build new stuff with these lists. 
