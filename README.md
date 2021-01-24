@@ -1,7 +1,7 @@
 # std_lists
 A collection of lists of common things in CSV format. 
 
-I often write small scripts, such as Twitter Bots which select random items from lists. I've started to gather these together here. Each is a CSV file, with no header row. The filename denotes what it contains.
+I often write small scripts, such as Twitter Bots which select random items from lists. I've started to gather these together here, adding from other projects until I get a common library I can use with projects. Each is a CSV file, with no header row. The filename denotes what it contains.
 
 Where I didn't fully compile the list myself, I've given the source after the file name / link. 
 
