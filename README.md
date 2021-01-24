@@ -6,19 +6,27 @@ I often write small scripts, such as Twitter Bots which select random items from
 Where I didn't fully compile the list myself, I've given the source after the file name / link. 
 
 ##  The Lists
+I'll group these as I go.
+
+### Geography
 * [Aberdeen Areas](aberdeen_areas.csv)
 * [Aberdeenshire Towns](aberdeenshire_towns_suburbs.csv) 
 * [Aberdeenshire Villages](aberdeenshire_villages_locales.csv) 
-* [Animals](animals.csv) # 
-* [Body Parts](body_parts.csv) #
 * [Countries](countries.csv) 
 * [Demonyms](demonyms.csv)
+• [UK Cities](UK_cities.csv) 
+
+### People 
+* [Body Parts](body_parts.csv) #
 * [Feminine Names](feminine_names.csv) #
-* [Fruits](fruits.csv)
 * [Masculine Names](masculine_names.csv) #
 * [Occupations](occupations.csv) - Source: https://github.com/johnlsheridan/occupations
 * [Persons](persons.csv) - note overlap with Occupations # 
 * [Surnames](surnames.csv) # 
+
+### Others
+* [Animals](animals.csv) # 
+* [Fruits](fruits.csv)
 * [Vegetables](vegetables.csv)
 * [Vehicles](vehicles.csv) #
 
